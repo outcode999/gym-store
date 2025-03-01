@@ -1,0 +1,1 @@
+This system allows users to browse and view store items, while store managers can add products, view bills, and request products from the warehouse if a store is out of stock.
